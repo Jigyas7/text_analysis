@@ -1,0 +1,6 @@
+How much wood could a woodchuck chuck if a woodchuck could chuck wood?
+This is a sample text file for word frequency analysis.
+It contains several sentences with words of varying lengths and punctuation marks.
+The goal is to analyze this text and generate an alphabetized index of word frequencies.
+Additionally, statistical information such as the total number of words, number of unique words, 
+number of unique words of more than three letters, average word length, and average sentence length will be calculated.

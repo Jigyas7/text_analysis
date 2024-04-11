@@ -1,0 +1,63 @@
+File: input.txt
+Lexicon with word frequencies:
+a 3
+additionally 1
+alphabetized 1
+an 1
+analysis 1
+analyze 1
+and 3
+as 1
+average 2
+be 1
+calculated 1
+chuck 2
+contains 1
+could 2
+file 1
+for 1
+frequencies 1
+frequency 1
+generate 1
+goal 1
+how 1
+if 1
+index 1
+information 1
+is 2
+it 1
+length 2
+lengths 1
+letters 1
+marks 1
+more 1
+much 1
+number 3
+of 6
+punctuation 1
+sample 1
+sentence 1
+sentences 1
+several 1
+statistical 1
+such 1
+text 2
+than 1
+the 2
+this 2
+three 1
+to 1
+total 1
+unique 2
+varying 1
+will 1
+with 1
+wood 2
+woodchuck 2
+word 3
+words 4
+Statistical summary:
+Total number of words: 83
+Number of unique words: 56
+Number of unique words of more than three letters: 43
+Average word length: 2.54819
